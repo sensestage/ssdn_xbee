@@ -6,8 +6,8 @@ In the API folder, you will find the xbee profiles to use with the API-mode vers
 In the AT folder, you will find the xbee profiles to use with the old (and outdated) AT-mode version of the MiniBee firmware.
 
 
-To program the profiles, you will need Digi's (Windows) software to upload them.
+To program the profiles, you will need Digi's X-CTU software to upload them.
 
 
 For relevant documentation, check:
-http://docs.sensestage.eu/topic/documentation/hardware/xbee
+http://docs.sensestage.eu/minibee/using-x-ctu-to-configure-an-xbee.html
